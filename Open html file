@@ -1,0 +1,7 @@
+Hi Everyone,
+
+I installed firefox 29.0 and trying to open an html file in the firefox browser but its throwing me and error "Unexpected Exception: Error: Access to 'myFile' from script denied. Firefox 29.0. I changed my settings in the about:config security.fileuri.strict_origin_policy as false but even then it does not work. Can anyone please help how to open an html file in the firefox browser 29.0. Or Do i need to change any settings in any where else?
+Thanks in advance.
+
+Regards,
+Doni
